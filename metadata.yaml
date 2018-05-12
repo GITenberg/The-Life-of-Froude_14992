@@ -1,0 +1,30 @@
+_repo: The-Life-of-Froude_14992
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paul, Herbert W. (Herbert Woodfield)
+    alias: Paul, Herbert Woodfield
+    birthdate: 1853
+    deathdate: 1935
+    gutenberg_agent_id: '5779'
+    url: http://www.gutenberg.org/2009/agents/5779
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Paul
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2005-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historians -- Great Britain -- Biography'
+- !lcsh 'Froude, James Anthony, 1818-1894'
+- !lcc 'DA'
+title: The Life of Froude
+url: http://www.gutenberg.org/ebooks/14992
