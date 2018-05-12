@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5779
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Paul
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14992#The-Life-of-Froude
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '2005-02-09'
 gutenberg_type: Text
